@@ -1,0 +1,19 @@
+source Desktop/comp_scidb_prj/schema/student.sql
+source Desktop/comp_scidb_prj/schema/employee.sql
+source Desktop/comp_scidb_prj/schema/department.sql
+source Desktop/comp_scidb_prj/schema/course.sql
+source Desktop/comp_scidb_prj/schema/concentration.sql
+source Desktop/comp_scidb_prj/schema/course_section.sql
+source Desktop/comp_scidb_prj/schema/enrollment.sql
+source Desktop/comp_scidb_prj/schema/prerequisite.sql
+source Desktop/comp_scidb_prj/schema/student_concentration.sql
+source Desktop/comp_scidb_prj/load/load-student.sql
+source Desktop/comp_scidb_prj/load/load-employee.sql
+source Desktop/comp_scidb_prj/load/load-department.sql
+source Desktop/comp_scidb_prj/load/load-course.sql
+source Desktop/comp_scidb_prj/load/load-concentration.sql
+source Desktop/comp_scidb_prj/load/load-course_section.sql
+source Desktop/comp_scidb_prj/load/load-enrollment.sql
+source Desktop/comp_scidb_prj/load/load-prerequisite.sql
+source Desktop/comp_scidb_prj/load/load-student-concentration.sql
+
